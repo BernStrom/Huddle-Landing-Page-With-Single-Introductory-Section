@@ -1,10 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
 body {
-    width: 375px;
+    width: 100vw;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
     font-family: "Open Sans", sans-serif;
-    color: hsl(257, 40%, 49%);
-    background-image: url("./images/bg-mobile.svg");
+    color: #fff;
+    background-color: hsl(257, 40%, 49%);
+    background-image: url("./images/bg-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* HEADER */
+.header-logo {
+    width: 100%;
+    display: flex;
+}
+  
+.header-logo img {
+    width: 15%;
+    margin: 3% 2%;
+}
+  
+main {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+  
+/* BOTTOM SECTION */
+.intro {
+    height: 45vh;
+    margin: 0 2%;
+}
+
+.introductory-title h1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    word-spacing: 0.2rem;
+    line-height: 5.5vh;
+}
+  
+.introductory-paragraph p {
+    font-size: 1.18rem;
+    line-height: 3vh;
+}
+  
+.register-button {
+    width: 100%;
+    margin-top: 4%;
+}
+  
+button {
+    padding: 2.5% 11%;
+    border-radius: 2.5rem;
+    color: #684BB1;
+    background-color: #fff;
+    box-shadow: 2px 5px 10px hsla(257, 40%, 19%, .6);
+    font-size: 1.18rem;
+    cursor: pointer;
+}
+  
+/* FOOTER */
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+  
+.social-media {
+    margin: 0 5%;
+    padding-top: 2%;
+    display: flex;
+}
+  
+.social-media div {
+    width: 40px;
+    height: 40px;
+    margin: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 40px;
+    font-size: 1.2rem;
+    border: 1px solid #fff;
+    border-radius: 100%;
+}
+  
+.social-media div a {
+    color: #fff;
+}
+
+/* Any devices, 1200px and below */
+@media only screen and (max-width: 1200px) {
+    body {
+        background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/4417738/bg-mobile.svg");
+        background-size: contain;
+    }
+      
+    /* HEADER */
+    .header-logo {
+        width: 32%;  
+    }
+      
+    .header-logo img {
+        width: 100%;
+        margin-top: 12%;
+    }
+      
+    main {
+        flex-direction: column;
+        text-align: center;
+    }
+      
+    /* TOP SECTION */
+    .content-illustration {
+        width: 80%; /* Adjust size through this container*/ 
+        margin: 12% auto;
+    } 
+      
+    .content-illustration img {
+        width: 100%; /* Set this to 100% and adjust the parent instead */
+    }
+      
+    /* BOTTOM SECTION */
+    .intro {
+        width: 94%;  
+    }
+      
+    .introductory-title h1 {
+        font-size: 1.7rem;
+        line-height: 4vh;
+    }
+      
+    .introductory-paragraph p {
+        font-size: 1.17rem;
+    }
+      
+    .register-button {
+        margin-top: 8%;
+    }
+      
+    button {
+        padding: 3% 20%;
+        font-size: 1em;
+        font-weight: 500;
+    }
+      
+    /* FOOTER */
+    footer {
+        margin: 5% 0;
+        flex-direction: column;
+    }
+    
+    .social-media {
+        justify-content: center;
+    }
+
+    .social-media div {
+        width: 30px;
+        height: 30px;
+    }
+      
+    .social-media div a {
+        font-size: 15px;
+    }
 }

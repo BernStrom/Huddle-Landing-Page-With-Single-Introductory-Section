@@ -3,13 +3,15 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
-    <title>Huddle landing page with single introductory section</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
     <link href="style.css" type="text/css" rel="stylesheet">
     <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+    <title>Huddle landing page with single introductory section</title>
+    <script src="https://kit.fontawesome.com/a0dc3e582b.js" crossorigin="anonymous"></script>
   </head>
 
   <body>
-    <header> <!-- HEADER -->
+    <header> <!-- PAGE HEADER -->
       <figure class="header-logo">
         <img src="images/logo.svg" alt="Huddle">
       </figure>
@@ -22,7 +24,7 @@
         </figure>
       </section>
 
-      <section> <!-- BOTTOM SECTION -->
+      <section class="intro"> <!-- BOTTOM SECTION -->
         <div class="introductory-title">
           <h1>Build The Community Your Fans Will Love</h1>
         </div>
@@ -38,13 +40,20 @@
       </section>
     </main>
 
-    <footer> <!-- FOOTER -->
+    <footer> <!-- PAGE FOOTER -->
       <section class="social-media">
+        <div>
+          <a href="https://www.facebook.com"><i class="fab fa-facebook-f"></i></a>
+        </div>
         
+        <div>
+          <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>   
+        </div>
+        
+        <div>
+          <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+        </div>
       </section>
-      <p class="attribution"> 
-        Coded by <a href="#">Your Name Here</a>.
-      </p>
     </footer>
   </body>
 </html>
