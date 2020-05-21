@@ -16,15 +16,15 @@ This project was obtained from a list of challenges by Frontend Mentor.
 
 ## Objectives of the project
 
-Use as much semantic HTML5 markup. *Think accessibility, readability and SEO optimization.*
+* Use as much semantic HTML5 markup. *Think accessibility, readability and SEO optimization.*
 
-Style with reusable CSS classes. 
+* Style with reusable CSS classes. 
 
-Use responsive design to make the page compatible on screen across mobile and desktop devices.
+* Use responsive design to make the page compatible on screen across mobile and desktop devices.
 
-Keep the code as clean as possible.
+* Keep the code as clean as possible.
 
-Most importantly, **Happy coding!🚀**
+And most importantly, _**Happy coding!🚀**_
 
 ## Technical Components
 
