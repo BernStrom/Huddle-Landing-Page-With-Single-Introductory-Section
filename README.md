@@ -24,7 +24,7 @@ Use responsive design to make the page compatible on screen across mobile and de
 
 Keep the code as clean as possible.
 
-As always, **Happy coding!**🚀
+As always, _Happy coding!_🚀
 
 ## Technical Components
 
@@ -42,9 +42,11 @@ As always, **Happy coding!**🚀
 
 #### Phone (iPhone 11 @ 414 x 896)
 ![Page preview on iPhone 11](./screenshots/Sizzy-iPhone-11.png)
+<hr />
 
 #### Tablet (iPad Pro 11 @ 834 x 1194)
 ![Page preview on iPad Pro 11](./screenshots/Sizzy-iPad-Pro-11.png)
+<hr />
 
 #### Desktop with browser UI (Any device resolution @ 1920 x 1080)
 ![Page preview on desktop device](./screenshots/Sizzy-Desktop.png)
