@@ -41,10 +41,10 @@ As always, **Happy coding!**🚀
 ## Screenshot of Responsive Design
 
 #### Phone (iPhone 11 @ 414 x 896)
-![Page preview on iPhone 11](./screenshots/Sizzy-iPhone 11.png)
+![Page preview on iPhone 11](./screenshots/Sizzy-iPhone-11.png)
 
 #### Tablet (iPad Pro 11 @ 834 x 1194)
-![Page preview on iPad Pro 11](./screenshots/Sizzy-iPad Pro 11.png)
+![Page preview on iPad Pro 11](./screenshots/Sizzy-iPad Pro-11.png)
 
 #### Desktop with browser UI (Any device resolution @ 1920 x 1080)
 ![Page preview on desktop device](./screenshots/Sizzy-Desktop.png)
