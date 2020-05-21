@@ -24,7 +24,7 @@ Use responsive design to make the page compatible on screen across mobile and de
 
 Keep the code as clean as possible.
 
-As always, _Happy coding!_🚀
+Most importantly, **Happy coding!🚀**
 
 ## Technical Components
 
@@ -38,7 +38,7 @@ As always, _Happy coding!_🚀
 
 [Responsive design testing app by Sizzy](https://a.paddle.com/v2/click/49831/114619?link=1947/ "Sizzy")
 
-## Screenshot of Responsive Design
+## Screenshots of Responsive Design
 
 #### Phone (iPhone 11 @ 414 x 896)
 ![Page preview on iPhone 11](./screenshots/Sizzy-iPhone-11.png)
