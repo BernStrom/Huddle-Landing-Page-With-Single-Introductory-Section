@@ -44,7 +44,7 @@ As always, **Happy coding!**🚀
 ![Page preview on iPhone 11](./screenshots/Sizzy-iPhone-11.png)
 
 #### Tablet (iPad Pro 11 @ 834 x 1194)
-![Page preview on iPad Pro 11](./screenshots/Sizzy-iPad Pro-11.png)
+![Page preview on iPad Pro 11](./screenshots/Sizzy-iPad-Pro-11.png)
 
 #### Desktop with browser UI (Any device resolution @ 1920 x 1080)
 ![Page preview on desktop device](./screenshots/Sizzy-Desktop.png)
