@@ -36,7 +36,7 @@ And most importantly, _**Happy coding!🚀**_
 
 [UI social media icons by Font Awesome](https://fontawesome.com/ "Font Awesome")
 
-[Responsive design testing app by Sizzy](https://a.paddle.com/v2/click/49831/114619?link=1947/ "Sizzy")
+[Responsive design testing app by Sizzy](https://a.paddle.com/v2/click/49831/114619?link=1947/ "Sizzy.co")
 
 ## Screenshots of Responsive Design
 
