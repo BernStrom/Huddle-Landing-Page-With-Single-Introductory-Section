@@ -16,15 +16,15 @@ This project was obtained from a list of challenges by Frontend Mentor.
 
 ## Objectives of the project
 
-Use as much semantic HTML5 markup. *Think accessibility, readability and SEO optimization.*
+* Use as much semantic HTML5 markup. *Think accessibility, readability and SEO optimization.*
 
-Style with reusable CSS classes. 
+* Style with reusable CSS classes. 
 
-Use responsive design to make the page compatible on screen across mobile and desktop devices.
+* Use responsive design to make the page compatible on screen across mobile and desktop devices.
 
-Keep the code as clean as possible.
+* Keep the code as clean as possible.
 
-As always, **Happy coding!**🚀
+And most importantly, _**Happy coding!🚀**_
 
 ## Technical Components
 
@@ -38,13 +38,15 @@ As always, **Happy coding!**🚀
 
 [Responsive design testing app by Sizzy](https://a.paddle.com/v2/click/49831/114619?link=1947/ "Sizzy")
 
-## Screenshot of Responsive Design
+## Screenshots of Responsive Design
 
 #### Phone (iPhone 11 @ 414 x 896)
 ![Page preview on iPhone 11](./screenshots/Sizzy-iPhone-11.png)
+<hr />
 
 #### Tablet (iPad Pro 11 @ 834 x 1194)
-![Page preview on iPad Pro 11](./screenshots/Sizzy-iPad Pro-11.png)
+![Page preview on iPad Pro 11](./screenshots/Sizzy-iPad-Pro-11.png)
+<hr />
 
 #### Desktop with browser UI (Any device resolution @ 1920 x 1080)
 ![Page preview on desktop device](./screenshots/Sizzy-Desktop.png)
