@@ -10,7 +10,7 @@ This project was build on purely HTML and CSS.
 
 ## Introduction
 
-Huddle is a single landing page meant for practicing layout and responsive desgin skills in CSS.
+Huddle is a single landing page meant for practicing layout and responsive design skills in CSS.
 
 This project was obtained from a list of challenges by Frontend Mentor.
 
