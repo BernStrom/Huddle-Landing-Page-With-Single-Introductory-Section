@@ -1,4 +1,4 @@
-## Huddle landing page with single introductory section
+## Huddle Landing Page with Single Introductory Section
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
